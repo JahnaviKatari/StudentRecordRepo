@@ -1,4 +1,4 @@
 Finance Marketing
 ITIL
-Git Fundamentals
-Python
+Git Fundamentals,Git Bash
+Python3
